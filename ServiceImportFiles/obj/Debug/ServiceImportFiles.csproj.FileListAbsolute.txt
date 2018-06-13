@@ -1,0 +1,6 @@
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\bin\Debug\ServiceImportFiles.dll
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\bin\Debug\ServiceImportFiles.pdb
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\obj\Debug\ServiceImportFiles.csprojResolveAssemblyReference.cache
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\obj\Debug\ServiceImportFiles.csproj.CoreCompileInputs.cache
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\obj\Debug\ServiceImportFiles.dll
+C:\Users\DarcleJF\source\repos\AppTestIlegra\ServiceImportFiles\obj\Debug\ServiceImportFiles.pdb

@@ -1,0 +1,9 @@
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\bin\Debug\AppTestIlegra.exe.config
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\bin\Debug\AppTestIlegra.exe
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\bin\Debug\AppTestIlegra.pdb
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\obj\Debug\AppTestIlegra.csprojResolveAssemblyReference.cache
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\obj\Debug\AppTestIlegra.csproj.CoreCompileInputs.cache
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\obj\Debug\AppTestIlegra.exe
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\obj\Debug\AppTestIlegra.pdb
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\bin\Debug\ServiceImportFiles.dll
+C:\Users\DarcleJF\source\repos\AppTestIlegra\AppTestIlegra\bin\Debug\ServiceImportFiles.pdb
